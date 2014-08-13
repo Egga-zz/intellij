@@ -1,0 +1,4 @@
+com.intellij
+Lombook Plugin
+com.atlassian.clover
+net.nicoulaj.idea.markdown
