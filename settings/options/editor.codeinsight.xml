@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Hard">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />

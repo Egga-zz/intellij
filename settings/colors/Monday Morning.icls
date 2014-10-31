@@ -721,13 +721,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="592204" />
+        <option name="BACKGROUND" value="ff8d7e" />
         <option name="ERROR_STRIPE_COLOR" value="592204" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="592204" />
+        <option name="BACKGROUND" value="ffad9b" />
         <option name="ERROR_STRIPE_COLOR" value="592204" />
       </value>
     </option>
