@@ -1,0 +1,3 @@
+# intellij
+
+Synchronized IDE settings...
