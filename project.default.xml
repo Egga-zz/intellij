@@ -1,0 +1,243 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="?*.properties" />
+          <entry name="?*.xml" />
+          <entry name="?*.gif" />
+          <entry name="?*.png" />
+          <entry name="?*.jpeg" />
+          <entry name="?*.jpg" />
+          <entry name="?*.html" />
+          <entry name="?*.dtd" />
+          <entry name="?*.tld" />
+          <entry name="?*.ftl" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+        <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+        <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="/two/bin" value="2848957594289" />
+            <entry key="/two/cfg/intern/Talks/bedcon/concordion" value="1442527106320" />
+            <entry key="/two/cfg/intern/Talks/bedcon/cucumber-JVM" value="1442527106320" />
+            <entry key="/two/cfg/intern/Talks/bedcon/fitnesse" value="1442527106320" />
+            <entry key="/two/cfg/intern/Talks/bedcon/jbehave" value="1442527106320" />
+            <entry key="/two/dev/java/private_workspace/mega-types" value="1444768410492" />
+            <entry key="/two/dev/java/training_workspace/bla/java-blank-gradle" value="1446456303080" />
+            <entry key="/two/dev/java/training_workspace/bootkick" value="1446562466093" />
+            <entry key="/two/dev/java/training_workspace/epd-academy" value="7230964315998" />
+            <entry key="/two/dev/java/training_workspace/java-blank-gradle" value="1439458253692" />
+            <entry key="/two/dev/java/training_workspace/ploymorphism" value="1444654501729" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_INTERNAL" />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectResources">
+        <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="/two/dev/java/post_workspace/build_board" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration useDefault="false">$USER_HOME$/.subversion_IDEA</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
