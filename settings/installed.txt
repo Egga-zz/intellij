@@ -1,7 +1,0 @@
-com.intellij
-Batch Scripts Support
-mobi.hsz.idea.gitignore
-CMD Support
-Lombook Plugin
-net.nicoulaj.idea.markdown
-com.atlassian.clover
