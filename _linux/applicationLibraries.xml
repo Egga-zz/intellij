@@ -33,9 +33,7 @@
       </SOURCES>
     </library>
     <library name="stub [puppet module]">
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
