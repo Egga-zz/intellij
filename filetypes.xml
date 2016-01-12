@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="post_jira_get" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="post_release_fast" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
