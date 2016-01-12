@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern="post_release_fast" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern="git_post" type="PLAIN_TEXT" />
       <mapping pattern="update_idea" type="PLAIN_TEXT" />
