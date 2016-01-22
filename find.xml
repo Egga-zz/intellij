@@ -3,9 +3,7 @@
     <option name="customScope" value="Project 'epb-engine-parent'" />
     <option name="defaultScopeName" value="Project 'epb-engine-parent'" />
     <option name="fromCursor" value="false" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'epb-engine-parent'" />
     <recentFileMasks>
       <mask>*.properties</mask>
