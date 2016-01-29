@@ -9,6 +9,7 @@
       <mapping pattern="git_post" type="PLAIN_TEXT" />
       <mapping pattern="update_idea" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="eap" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="puml" type="PLAIN_TEXT" />
     </extensionMap>
