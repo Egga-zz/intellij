@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Project 'epb-engine-parent'" />
+    <option name="defaultScopeName" value="Project 'epb-engine-parent'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project 'epb-engine-parent'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
