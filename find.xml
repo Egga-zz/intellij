@@ -3,7 +3,9 @@
     <option name="customScope" value="Project 'registration-service'" />
     <option name="defaultScopeName" value="Project 'registration-service'" />
     <option name="fromCursor" value="false" />
+    <option name="localRegularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'registration-service'" />
     <recentFileMasks>
       <mask>*.properties</mask>
