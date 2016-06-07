@@ -3,7 +3,9 @@
     <option name="customScope" value="Project 'reg-test-lib'" />
     <option name="defaultScopeName" value="Project 'reg-test-lib'" />
     <option name="fromCursor" value="false" />
+    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'reg-test-lib'" />
     <recentFileMasks>
       <mask>*.properties</mask>
