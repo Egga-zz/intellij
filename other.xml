@@ -355,14 +355,6 @@
       <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean_xpath.jar.pack.gz" size="2430" />
     </Libs>
   </component>
-  <component name="XPathView.XPathViewPlugin">
-    <option name="attributes">
-      <TextAttributes />
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes />
-    </option>
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
