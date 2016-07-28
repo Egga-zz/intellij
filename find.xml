@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/two/dev/gkr/.teamcity'" />
-    <option name="defaultScopeName" value="Directory '/two/dev/gkr/.teamcity'" />
+    <option name="customScope" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
+    <option name="defaultScopeName" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Directory '/two/dev/gkr/.teamcity'" />
+    <option name="SEARCH_SCOPE" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
