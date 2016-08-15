@@ -5,7 +5,6 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.js</mask>
