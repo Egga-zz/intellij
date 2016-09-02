@@ -14,6 +14,12 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
@@ -24,14 +30,19 @@
   </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+    <keyboard-shortcut first-keystroke="ctrl plus" />
   </action>
   <action id="EditorSelectWord" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl plus" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
@@ -55,9 +66,21 @@
   <action id="Git.Reset">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+  </action>
   <action id="GuiDesigner.ExpandSelection" />
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="Maven.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="NextEditorTab" />
   <action id="PackageFile" />
