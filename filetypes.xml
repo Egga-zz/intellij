@@ -12,7 +12,6 @@
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="puml" type="PLAIN_TEXT" />
       <mapping ext="eap" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
