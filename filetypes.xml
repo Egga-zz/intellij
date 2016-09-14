@@ -1,17 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="post_jira_get" type="PLAIN_TEXT" />
-      <mapping pattern="common" type="PLAIN_TEXT" />
-      <mapping pattern="post_release_fast" type="PLAIN_TEXT" />
       <mapping pattern="__empty__" type="PLAIN_TEXT" />
-      <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern="git_post" type="PLAIN_TEXT" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern="update_idea" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern="post_jira_get" type="PLAIN_TEXT" />
+      <mapping pattern="post_release_fast" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="eap" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="puml" type="PLAIN_TEXT" />
+      <mapping ext="eap" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
