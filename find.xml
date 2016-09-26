@@ -3,9 +3,7 @@
     <option name="customScope" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
     <option name="defaultScopeName" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
     <option name="fromCursor" value="false" />
-    <option name="localRegularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
     <recentFileMasks>
       <mask>*.properties</mask>
