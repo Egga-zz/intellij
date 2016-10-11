@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
-    <option name="defaultScopeName" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
+    <option name="customScope" value="Directory '/two/dev/crg/puppet/modules'" />
+    <option name="defaultScopeName" value="Directory '/two/dev/crg/puppet/modules'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Directory '/two/dev/reg/registration-service-duoident/src/main/groovy/registration/service/duoident'" />
+    <option name="SEARCH_SCOPE" value="Directory '/two/dev/crg/puppet/modules'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.js</mask>
