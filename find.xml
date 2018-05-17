@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/two/dev/crg/puppet/modules'" />
+    <option name="defaultScopeName" value="Directory '/two/dev/crg/puppet/modules'" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="Directory '/two/dev/crg/puppet/modules'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jsp, *.css</mask>
+      <mask>*.html</mask>
+      <mask>*.java</mask>
+      <mask>*Resource.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.groovy</mask>
+    </recentFileMasks>
+  </component>
+</application>
