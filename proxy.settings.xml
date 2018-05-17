@@ -1,7 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="proxy.inf.epost-dev.de" />
-    <option name="PROXY_PORT" value="8080" />
-    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.0/8, ::1, .clear-mail.de, .epost-dev.de" />
-  </component>
-</application>
