@@ -83,6 +83,9 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="PackageFile" />
   <action id="PreviousEditorTab" />
   <action id="ReformatCode">
@@ -104,6 +107,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleBookmark7" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift alt page_up" />
