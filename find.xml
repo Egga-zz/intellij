@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -17,10 +15,10 @@
       <mask>*.jsp, *.css</mask>
       <mask>*.html</mask>
       <mask>*Resource.java</mask>
-      <mask>*.xml</mask>
       <mask>*.groovy</mask>
       <mask>*.java</mask>
       <mask>*.json</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
