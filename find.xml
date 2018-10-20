@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.js</mask>
@@ -16,10 +17,10 @@
       <mask>*.html</mask>
       <mask>*Resource.java</mask>
       <mask>*.groovy</mask>
-      <mask>*.java</mask>
       <mask>*.json</mask>
       <mask>*.xml</mask>
       <mask>*.sh</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
