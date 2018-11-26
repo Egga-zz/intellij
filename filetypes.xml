@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="GameTest" type="CLASS" />
       <mapping pattern="post_jira_get" type="PLAIN_TEXT" />
+      <mapping pattern="steppi_config" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="update_idea" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
